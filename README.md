@@ -1,4 +1,4 @@
-#Sistema de cadstro de jogos
+# Sistema de cadstro de jogos
 
 >Status do projeto: Em desenvolvimento
 
